@@ -22,10 +22,9 @@ const Hero = () => {
           <br />
           <h1 className="text-6xl text-orange-200 opacity-80 transition-all duration-300 hover:opacity-100">Over.</h1>
 
-          <div className="text-md text-orange-200">Ik ben erachter gekomen wat ik wil doen in mijn leven! <strong className="text-taupe-300 text-lg text-bold">verhalen vertellen.</strong>
+          <div className="text-md text-orange-200">Nutrilever is al 75 jaar koploper op de internationale melkmarkt. Dankzij onze voedsters voorzien wij heel Nederland dagelijks van 2.4 miljoen liters borstvoeding, waarvan meer dan 95% fair-trade.
             <br /> <br />
-            Ik ben een creatieve vormgever die uit techniek, muziek en performance denkt. Ik wil graag betrokken zijn bij creatieve processen waar de termen interactie, avontuur, optimisme en ‘de ander’ centraal staat.
-            Ik wil mensen verwonderen. Ik zal mensen op een optimistische en magische avontuur willen laten gaan waar ze meer naar de ander om én opkijken.<br /><br /></div>
+            Op onze weg naar 100% fairtrade, zoeken wij naar nieuwe lacteerbare mensen die zich verbonden voelen met onze missie. Wij bij Nutrilever geloven in het product van onze voedsters en zien hen als kloppend hart van ons bedrijf. Dit is jouw kans om onmisbaar onderdeel van onze samenleving te worden!Geïnteresseerd? Schrijf u nu in.https://forms.gle/DCmdjg6nqrF3qzCs6De deadline van de open-call is 21 november.</div>
 
           <div className="flex w-full flex-row gap-4">
 
